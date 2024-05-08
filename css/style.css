@@ -1,7 +1,7 @@
 h1 {
     font-size: 30px;
-    color: red;
-    background-color: yellow;
+    color:rgb(228, 73, 73);
+    background-color: lightgreen;
 }
 
 #main_head {
@@ -10,6 +10,14 @@ h1 {
 
 .head_title {
     background-color: gray;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 a[target="_blank"]{
