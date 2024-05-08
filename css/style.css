@@ -1,0 +1,44 @@
+h1 {
+    font-size: 30px;
+    color: red;
+    background-color: yellow;
+}
+
+#main_head {
+    color: aqua;
+}
+
+.head_title {
+    background-color: gray;
+}
+
+a[target="_blank"]{
+    color: orange;
+}
+
+a:link {
+    color: cyan;
+}
+
+a:visited {
+    color: purple;
+}
+
+h5 {
+    text-align: center;
+    font-size: 10px;
+    background-color: brown;
+    color: bisque;
+}
+
+h5:hover {
+    background-color: cadetblue;
+}
+
+#title_gear:hover {
+    color: red;
+}
+
+input:focus {
+    background-color: orangered;
+}
