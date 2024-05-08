@@ -51,13 +51,17 @@ input:focus {
     background-color: orangered;
 }
 
-div {
+div.main {
     width: 200px;
     height: 50px;
     background-color: #dddddd;
+    background-image: url(https://t3.ftcdn.net/jpg/02/77/30/98/360_F_277309825_h8RvZkoyBGPDocMtippdfe3497xTrOXO.jpg);
+    background-repeat: no-repeat;
     text-align: center;
-    border: skyblue solid 2px;
+    border: skyblue outset 10px;
     border-radius: 10px;
+    margin: 10px 50px 20px 30px;
+    padding: 5px 2px;
 }
 
 div:hover button {
