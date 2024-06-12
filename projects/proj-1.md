@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '동부 힙합'
-## EAST COST
 ---
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
