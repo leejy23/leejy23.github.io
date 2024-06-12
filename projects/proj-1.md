@@ -40,7 +40,11 @@ Nas는 본명으로 Nasir bin Olu Dara Jones1를 가지고 있으며, 1973년 9�
 #### JAY-Z
 
 {% include image.html url="https://www.youtube.com/watch?v=vk6014HuxcE" image="projects/proj-1/jay_z.jpg" %}
+Jay-Z는 본명으로 Shawn Corey Carter1를 가지고 있으며, 1969년 12월 4일에 태어났습니다. 그는 미국의 래퍼이자 기업가로, 2023년에 Billboard와 Vibe에서 역대 최고의 래퍼로 선정되었습니다.
 
+그는 브루클린의 마약으로 가득 찬 Marcy Projects에서 자랐으며, 랩을 탈출구로 사용하였습니다. 그는 1989년에 처음으로 Yo! MTV Raps에 출연하였고, 그의 Roc-a-Fella 레이블로 수백만 장의 레코드를 판매한 후에 자신만의 의류 라인을 창출하고 엔터테인먼트 회사를 설립하였습니다.
+
+그는 랩을 활용하여 음악 산업에서 가장 성공적인 창업 경력 중 하나를 이루어내었으며, 2019년에는 힙합 아티스트로서 처음으로 억만장자가 되었습니다. 그는 전 세계적으로 1억 장 이상의 레코드를 판매하였고, 솔로 아티스트 레코드인 14개의 Billboard 200 #1 앨범을 보유하고 있습니다.
 
 #### Mobb Deep
 
