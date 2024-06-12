@@ -49,3 +49,9 @@ Jay-Z는 본명으로 Shawn Corey Carter1를 가지고 있으며, 1969년 12월 
 #### Mobb Deep
 
 {% include image.html url="https://www.youtube.com/watch?v=yoYZf-lBF_U" image="projects/proj-1/mobb_deep.jpg" %}
+
+Mobb Deep는 1991년에 뉴욕시 퀸즈에서 결성된 미국의 힙합 듀오입니다1. 이 듀오는 래퍼, 작사가, 레코드 프로듀서인 Prodigy와 Havoc으로 구성되어 있습니다. 그들은 하드코어 East Coast 힙합의 주요 창시자로 간주되며, 역대 가장 성공적인 랩 듀오 중 하나로, 300만 장 이상의 레코드를 판매하였습니다.
+
+그들의 가장 유명한 앨범으로는 ‘The Infamous’ (1995), ‘Hell on Earth’ (1996), ‘Murda Muzik’ (1999)가 있으며, 가장 성공적인 싱글로는 "Shook Ones (Part II)"와 "Survival of the Fittest"가 있습니다. 그들은 그들의 어두운 그리고 하드코어한 전달 방식으로 알려져 있습니다.
+
+영화 "8마일" 의 후반부에는 에미넴이 "Shook Ones, (Part II)" 의 비트에 맞춰 랩을 하는 장면이 나와 대중에게도 인지도를 알렸습니다.
