@@ -27,6 +27,15 @@ Wu-Tang Clan은 1992년에 뉴욕시 스태튼 아일랜드에서 결성된 미�
 
 {% include image.html url="https://www.youtube.com/watch?v=VC4ORS5n9Hg" image="projects/proj-1/nas.jpg" %}
 
+Nas는 본명으로 Nasir bin Olu Dara Jones1를 가지고 있으며, 1973년 9월 14일에 뉴욕시 브루클린에서 태어났습니다. 그는 East Coast 힙합에 뿌리를 두고 있으며, 역대 최고의 래퍼 중 한 명으로 간주됩니다.
+
+그의 음악적 경력은 1989년에 "Nasty Nas"라는 예명으로 시작되었으며, 그는 동료 East Coast 래퍼인 Large Professor의 지원 아래 데모를 녹음하였습니다. 그의 데뷔 앨범인 ‘Illmatic’ (1994)는 역대 최고의 힙합 앨범 중 하나로 널리 인정받았습니다.
+
+그의 두 번째 앨범인 ‘It Was Written’ (1996)은 Billboard 200에서 첫 등장 1위를 차지하였고, 첫 주에 25만 장 이상 팔렸습니다. 이 앨범은 그와 Lauryn Hill이 피처링한 싱글 "If I Ruled the World (Imagine That)"를 통해 Nas를 주류 성공으로 이끌었습니다.
+
+그는 2001년부터 2005년까지 Jay-Z와의 공개적인 불화와 그에 따른 디스 트랙 "Ether"로 인해 많은 주목을 받았습니다. 이 불화와 그의 이후 앨범들인 ‘Stillmatic’ (2001), ‘God’s Son’ (2002), 그리고 더블 앨범 ‘Street’s Disciple’ (2004)는 그의 비평적 지위를 회복하는 데 도움이 되었습니다.
+
+그는 2020년에 발표한 13번째 스튜디오 앨범인 'King’s Disease’로 그래미 어워즈에서 최고의 랩 앨범을 수상하였습니다.
 
 #### JAY-Z
 
