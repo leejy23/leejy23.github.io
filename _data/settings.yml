@@ -3,8 +3,8 @@
 
 menu:
 - {name: '동부 힙합', url: 'EastCost'}
-- {name: '서부 힙합',     url: 'Southern'}
-- {name: '남부 힙합',    url: 'about'}
+- {name: '서부 힙합',     url: 'WestCost'}
+- {name: '남부 힙합',    url: 'Southern'}
 - {name: '추가정보',  url: 'contact'}
 
 #-------------------------------
