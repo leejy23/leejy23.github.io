@@ -11,9 +11,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
+- {name: '동부 주요 래퍼',   url: 'proj-1'}
+- {name: '서부 주요 래퍼',   url: 'proj-2'}
+- {name: '남부 주요 래퍼', url: 'proj-3'}
 
 #-------------------------------
 # Contact Section
