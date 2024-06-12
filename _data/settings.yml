@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: '동부 힙합', url: ''}
+- {name: '동부 힙합', url: 'EastCost'}
 - {name: '서부 힙합',     url: 'blog'}
 - {name: '남부 힙합',    url: 'about'}
 - {name: '추가정보',  url: 'contact'}
