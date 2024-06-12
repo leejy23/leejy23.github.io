@@ -1,9 +1,10 @@
 ---
 layout: page
-title: East Cost
+title: East Cost Hip Hop
 permalink: /EastCost
-## 동부 힙합
 ---
+# History of EastCost Hip Hop
+
 힙합의 시작 자체가 뉴욕의 브롱스 남부 빈민가에서였다. 힙합의 태동기 시절인 1970년대 초반, 뉴욕에서는 디스코가 클럽 등 음지를 중심으로 엄청난 광풍이 불고 있었다. 힙합도 이에 큰 영향을 받아 디스코, 펑크, 재즈 성향을 잔뜩 담은 블록파티용 댄스 음악으로 시작했다. 양 쪽에 턴테이블 두 대를 배치하고 비트를 쪼개며 연속적인 음악을 재생하는 기법인 비트 브레이킹이 동네 DJ들에 의해 시작되었고 이 브레이크에 맞춰 관객들은 브레이크 댄스를 추며 발전시켜 나갔다. 이후에는 마이크를 잡은 뒤 그냥 떠들던 행위를 넘어 MC들이 득세하고 비트에 맞춰 가사를 얹기 시작해 랩이 발전하면서 앞선 디스코, 펑크 계열 장르들과 차별되는 커다란 특징이 생긴다.
 
 1980년을 전후해서 Grandmaster Flash and the Furious Five의 성공을 시작으로 Fantastic Five, Cold Crush Brothers, Treacherous Three, Funky Four Plus One, Afrika Bambaataa 등이 뉴욕 안에서 히트했으며 주로 기존 디스코, 펑크 샘플에 자기 과시적인 가사와 비교적 단조로운 랩을 얹어 파티와 클럽에서 라이브 공연을 하고 테이프를 팔았는데 이들이 1세대 올드스쿨 래퍼들이다.

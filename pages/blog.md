@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: Blog
-permalink: /blog
+title: West Cost Hip Hop
+permalink: /Southern
 ---
