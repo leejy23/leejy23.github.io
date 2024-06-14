@@ -61,7 +61,7 @@ Lil uzi vert, Future, Playboi Carti 등과 함께 정통 멈블랩이 완전히 
 
 #### Playboi Carti
 
-{% include image.html url="https://www.youtube.com/watch?v=oCveByMXd_0" image="projects/proj-3/play.jpg" %}
+{% include image.html url="https://www.youtube.com/watch?v=oCveByMXd_0" image="projects/proj-3/playboicarti.jpg" %}
 
 2010년대 후반부터 애틀랜타 힙합 씬을 휩쓸고 등장한 래퍼입니다. 특이한 플로우, 탁월한 비트 선택 등 자신의 입지를 확고하게 다졌으며, 라이브가 매우 독특한 래퍼 중 한명으로 꼽힙니다. 특유의 과격하고 날것인 음악 스타일 덕분에, 현재 미국 힙합 씬을 대표하는 래퍼로 인기를 끌고 있습니다.
 
