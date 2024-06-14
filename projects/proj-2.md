@@ -1,8 +1,9 @@
 ---
 layout: post
+title: 서부 주요 래퍼
 ---
 
-## 서부 주요 래퍼
+## A major western rapper
 
 #### N.W.A
 

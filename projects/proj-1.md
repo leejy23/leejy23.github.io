@@ -1,7 +1,8 @@
 ---
 layout: post
+title: 동부 주요 래퍼
 ---
-## 동부 주요 래퍼
+## A major eastern rapper
 
 #### The Notorious B.I.G.
 

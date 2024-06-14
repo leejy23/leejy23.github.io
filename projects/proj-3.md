@@ -1,8 +1,9 @@
 ---
 layout: post
+title: 남부 주요 래퍼
 ---
 
-## 남부 주요 래퍼
+## A major southern rapper
 
 #### 21 Savage
 
