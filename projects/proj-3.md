@@ -49,9 +49,15 @@ Lil uzi vert, Future, Playboi Carti 등과 함께 정통 멈블랩이 완전히 
 
 #### Lil Nas X
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+{% include image.html url="https://www.youtube.com/watch?v=r7qovpFAGrQ" image="projects/proj-3/Lil_Nas_X.jpg" %}
 
-ㅇㅇㅇ
+트위터에서 활동하면서 가끔씩 사운드 클라우드에 곡을 올리는 아마추어 뮤지션이었으나 힙합과 컨트리를 결합한 노래인 "Old Town Road"가 전 세계적으로 메가 히트를 치면서 유명해지게 되었습니다. 이후 데뷔 EP 7(EP)가 신선함으로 호평을 받았고, RM, DaBaby 등 래퍼들과의 리믹스, 2021년에 발매한 MONTERO 앨범이 성공을 거뒀습니다.
+
+릴 나스 엑스는 Z세대 대표 음악가인 키드 라로이, 올리비아 로드리고와 함께 2020년대 대중음악계를 대표하는 뮤지션으로 21세기 대중음악 역사상 가장 임팩트 있는 데뷔를 한 아티스트 중 하나로도 꼽힙니다. 데뷔곡 Old Town Road로 미국 대중음악에 큰 파란을 불러일으켰으며 2019년 컨트리 음악의 부흥을 이끈 인물이었습니다.
+
+2021년, MONTERO와 INDUSTRY BABY의 발매로 원 히트 원더가 아님을 증명한 릴 나스 엑스는 동성애자 래퍼로써의 아이덴티티를 드러내며 미국 대중음악계를 넘어서 사회 전반에 큰 영향을 미치는 인물이 되었습니다.
+
+2022년 롤드컵의 주제가 "Star Walkin'"을 불러서 Lil Nas X는 몰라도 노래는 아는 사람이 간혹 있습니다.
 
 #### Playboi Carti
 
