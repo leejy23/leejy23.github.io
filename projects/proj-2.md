@@ -18,7 +18,7 @@ layout: post
 
 #### Dr dre
 
-{% include image.html url="https://www.youtube.com/watch?v=_CL6n0FJZpk" image="projects/proj-2/drdre.jpg" %}
+{% include image.html url="https://www.youtube.com/watch?v=_CL6n0FJZpk" image="projects/proj-2/drdre2.jpg" %}
 
 미국의 힙합 프로듀서이자 래퍼, 사업가.
 
@@ -32,7 +32,7 @@ layout: post
 
 #### Snoop Dogg
 
-{% include image.html url="https://www.youtube.com/watch?v=GtUVQei3nX4" image="projects/proj-2/snoopdogg.jpg" %}
+{% include image.html url="https://www.youtube.com/watch?v=GtUVQei3nX4" image="projects/proj-2/snoopdogg2.jpg" %}
 
 1990년대 초 혜성같이 등장한 서부 힙합의 대부로, 1990년대 초중반 지역 불문 힙합씬 전체에서 가장 인기있고 많은 음반을 판매하는 래퍼였다. 얇고 부드러운 목소리 톤과 여유롭게 말하듯이 내뱉는 리듬감 넘치는 래핑이 특징이다.
 
